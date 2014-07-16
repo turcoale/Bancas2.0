@@ -1,0 +1,25 @@
+###########PINES############
+### Botones ###
+Boton Pos	P8-21 GPIO1_30
+Boton Neg	P8-23 GPIO1_4
+Boton Pp	P8-25 GPIO1_0
+Sensor Bt	P8-03 GPIO1_6
+Sensor Mic	P8-05 GPIO1_2
+
+### UART ###
+Sensor Biometrico  P9-24	UART1_TXD	
+		   P9-26	UART1_RXD
+### LCD ###
+RS		P8-39 GPIO2_12
+R/W		P8-42 GPIO2_11
+E		P8-41 GPIO2_10
+Lcd4		P8-45 GPIO2_6
+Lcd5		P8-46 GPIO2_7
+Lcd6		P8-43 GPIO2_8
+Lcd7		P8-44 GPIO2_9
+
+### LEDS ###
+LedPos		P8-20 GPIO1_31
+LedNeg		P8-22 GPIO1_5
+LedPP		P8-24 GPI1_1
+

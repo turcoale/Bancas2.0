@@ -1,0 +1,60 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:relay
+LIBS:BBB2
+LIBS:beaglebonecape-cache
+EELAYER 24 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "noname.sch"
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L BEAGLEBON_BLACK #G?
+U 1 1 53739A22
+P 5350 3600
+F 0 "#G?" H 5350 3550 60  0001 C CNN
+F 1 "BEAGLEBON_BLACK" H 5350 3650 60  0001 C CNN
+F 2 "" H 5350 3600 60  0000 C CNN
+F 3 "" H 5350 3600 60  0000 C CNN
+	1    5350 3600
+	0    -1   -1   0   
+$EndComp
+$EndSCHEMATC

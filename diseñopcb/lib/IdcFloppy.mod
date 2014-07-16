@@ -1,0 +1,268 @@
+PCBNEW-LibModule-V1  jue 29 may 2014 10:05:12 ART
+# encoding utf-8
+Units mm
+$INDEX
+pin_array_12x2
+$EndINDEX
+$MODULE pin_array_12x2
+Po 0 0 0 15 53872F05 00000000 ~~
+Li pin_array_12x2
+Cd Double rangee de contacts 2 x 12 pins
+Kw CONN
+Sc 0
+AR /5370F98C
+Op 0 0 0
+T0 0 -3.81 1.016 1.016 0 0.27432 N V 21 N "CON8"
+T1 0 3.81 1.016 1.016 0 0.2032 N V 21 N "LCD16X2"
+DS 8.89 -2.54 21.59 -2.54 0.381 21
+DS 21.59 -2.54 21.59 2.54 0.381 21
+DS 21.59 2.54 8.89 2.54 0.381 21
+DS -21.59 -2.54 -21.59 2.54 0.381 21
+DS -21.59 2.54 8.89 2.54 0.381 21
+DS 8.89 -2.54 -21.59 -2.54 0.381 21
+$PAD
+Sh "1" R 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 9 "GND"
+Po -20.32 1.27
+$EndPAD
+$PAD
+Sh "2" C 1.524 1.524 0 0 0
+Dr 0.5 0 0
+At STD N 00E0FFFF
+Ne 8 "/Beaglebone Black/VDD_5V"
+Po -20.32 -1.27
+$EndPAD
+$PAD
+Sh "3" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 8 "/Beaglebone Black/VDD_5V"
+Po -17.78 1.27
+$EndPAD
+$PAD
+Sh "4" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 3 "/Beaglebone Black/GPIO2_12"
+Po -17.78 -1.27
+$EndPAD
+$PAD
+Sh "5" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 2 "/Beaglebone Black/GPIO2_11"
+Po -15.24 1.27
+$EndPAD
+$PAD
+Sh "6" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 1 "/Beaglebone Black/GPIO2_10"
+Po -15.24 -1.27
+$EndPAD
+$PAD
+Sh "7" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 13 "N-0000048"
+Po -12.7 1.27
+$EndPAD
+$PAD
+Sh "8" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 12 "N-0000045"
+Po -12.7 -1.27
+$EndPAD
+$PAD
+Sh "9" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 11 "N-0000044"
+Po -10.16 1.27
+$EndPAD
+$PAD
+Sh "10" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 10 "N-0000043"
+Po -10.16 -1.27
+$EndPAD
+$PAD
+Sh "11" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 4 "/Beaglebone Black/GPIO2_6"
+Po -7.62 1.27
+$EndPAD
+$PAD
+Sh "12" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 5 "/Beaglebone Black/GPIO2_7"
+Po -7.62 -1.27
+$EndPAD
+$PAD
+Sh "13" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 6 "/Beaglebone Black/GPIO2_8"
+Po -5.08 1.27
+$EndPAD
+$PAD
+Sh "14" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 7 "/Beaglebone Black/GPIO2_9"
+Po -5.08 -1.27
+$EndPAD
+$PAD
+Sh "15" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 8 "/Beaglebone Black/VDD_5V"
+Po -2.54 1.27
+$EndPAD
+$PAD
+Sh "16" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 14 "N-000009"
+Po -2.54 -1.27
+$EndPAD
+$PAD
+Sh "17" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1.27
+$EndPAD
+$PAD
+Sh "18" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1.27
+$EndPAD
+$PAD
+Sh "19" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 1.27
+$EndPAD
+$PAD
+Sh "20" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 -1.27
+$EndPAD
+$PAD
+Sh "21" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 1.27
+$EndPAD
+$PAD
+Sh "22" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 -1.27
+$EndPAD
+$PAD
+Sh "23" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 1.27
+$EndPAD
+$PAD
+Sh "24" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 -1.27
+$EndPAD
+$PAD
+Sh "25" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 1.27
+$EndPAD
+$PAD
+Sh "26" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 -1.27
+$EndPAD
+$PAD
+Sh "27" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 1.27
+$EndPAD
+$PAD
+Sh "28" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 -1.27
+$EndPAD
+$PAD
+Sh "29" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 1.27
+$EndPAD
+$PAD
+Sh "30" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -1.27
+$EndPAD
+$PAD
+Sh "31" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 1.27
+$EndPAD
+$PAD
+Sh "32" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 -1.27
+$EndPAD
+$PAD
+Sh "33" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.32 1.27
+$EndPAD
+$PAD
+Sh "34" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.32 -1.27
+$EndPAD
+$SHAPE3D
+Na "pin_array/pins_array_12x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE pin_array_12x2
+$EndLIBRARY

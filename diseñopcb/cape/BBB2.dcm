@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: mar 20 may 2014 10:50:54 ART
+#
+$CMP Beaglebone_Black
+D BEAGLEBONE BLACK
+F /home/turco/Dropbox/bancas2.0/diseñopcb/cape/bbb.pdf
+$ENDCMP
+#
+#End Doc Library

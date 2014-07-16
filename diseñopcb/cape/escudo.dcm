@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0  Date: jue 08 may 2014 09:49:11 ART
+#
+$CMP escudo
+D escudo
+K escudo
+$ENDCMP
+#
+$CMP LOGO
+D escudo
+K escudo
+$ENDCMP
+#
+#End Doc Library
