@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1405693908 source:/home/turco/Dropbox/bancas2.0/sources/software/pruebas/main.cpp
+	<iostream>
+	"MiClase.h"
+
+1405611123 source:/home/turco/Dropbox/bancas2.0/sources/software/pruebas/src/MiClase.cpp
+	<MiClase.h>
+	<iostream>
+
+1405692443 source:/home/turco/Dropbox/bancas2.0/sources/software/pruebas/miclase.cpp
+	"miclase.h"
+
+1405692832 /home/turco/Dropbox/bancas2.0/sources/software/pruebas/miclase.h
+
