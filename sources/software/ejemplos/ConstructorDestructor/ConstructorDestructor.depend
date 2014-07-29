@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1406209711 source:/home/turco/Dropbox/bancas2.0/sources/software/ejemplos/ConstructorDestructor/miclase.cpp
+	"miclase.h"
+
+1406213163 /home/turco/Dropbox/bancas2.0/sources/software/ejemplos/ConstructorDestructor/miclase.h
+
+1406209888 source:/home/turco/Dropbox/bancas2.0/sources/software/ejemplos/ConstructorDestructor/main.cpp
+	<iostream>
+	"miclase.h"
+
